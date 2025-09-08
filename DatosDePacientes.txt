@@ -1,0 +1,6 @@
+1 Ricky 19 Masculino 25 LasPuentes SanNicolas 81212312 Indefinido
+2 Luis 29 Masculino polar jardines sanpedro 21312132 Indefinido
+3 JoseLuis 20 Femenino polonia kilombo guadalupe 312213123 Indefinido
+4 Ariel 19 Masculino 25 Tampiquito SanPedro 291484128 Indefinido
+5 Roger 12 Masculino polaco DelValle SanPedro 12321321 Indefinido
+6 Arturo 20 Masculino longaniza lasagna pizza 911 Indefinido

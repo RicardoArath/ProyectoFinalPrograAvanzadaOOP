@@ -1,0 +1,8 @@
+08 Disponible Ocupado Disponible Disponible Disponible
+09 Disponible Disponible Disponible Disponible Disponible
+10 Disponible Ocupado Disponible Disponible Disponible
+11 Disponible Disponible Disponible Disponible Disponible
+12 Disponible Disponible Disponible Disponible Disponible
+01 Disponible Disponible Disponible Disponible Disponible
+03 Disponible Ocupado Disponible Disponible Disponible
+04 Disponible Ocupado Disponible Disponible Disponible
